@@ -13,7 +13,7 @@ chardet==3.0.4
 colorama==0.3.9
 dialite==0.5.2
 Django==2.2.6
-django-debug-toolbar==2.1
+django-debug-toolbar==2.2.1
 django-debugtools==1.7.4
 docker==3.7.3
 docker-compose==1.23.2
