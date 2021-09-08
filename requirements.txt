@@ -40,7 +40,7 @@ nltk==3.4.5
 olefile==0.46
 pathspec==0.5.9
 pdfminer.six==20181108
-Pillow==6.2.1
+Pillow==8.3.2
 pscript==0.7.1
 psycopg2-binary==2.8.3
 pyasn1==0.4.7
